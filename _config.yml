@@ -10,13 +10,13 @@ name: Kayoung Ban
 title: Dr
 email: kban@kias.re.kr
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://inspirehep.net/authors/1835918
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: jekyllrb
